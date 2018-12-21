@@ -1,0 +1,22 @@
+{
+  "name": "flutter",
+  "version": "0.1.0",
+  "summary": "A short description of flutter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sdaduanbilei@163.com/flutter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdaduanbilei@163.com": "sdaduanbilei@163.com"
+  },
+  "source": {
+    "git": "https://github.com/sdaduanbilei@163.com/flutter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "flutter/Classes/**/*"
+}
