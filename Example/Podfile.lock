@@ -1,16 +1,16 @@
 PODS:
-  - flutter (0.1.0)
+  - flutter (0.1.5)
 
 DEPENDENCIES:
   - flutter (from `../`)
 
 EXTERNAL SOURCES:
   flutter:
-    :path: "../"
+    :path: ../
 
 SPEC CHECKSUMS:
-  flutter: 3f414a85f0b377d70dcacc9ce2ef42d551df7810
+  flutter: 9d6c8652ced3addbaf89ad3ec930205cebd001ff
 
-PODFILE CHECKSUM: 2653cc7a2ad34d3b7d94b252aa9f211de199933d
+PODFILE CHECKSUM: 0aa34ace0a7639d3ef188c750d247507efaf44db
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.4.0

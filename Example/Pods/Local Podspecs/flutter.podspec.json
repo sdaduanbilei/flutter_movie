@@ -1,9 +1,9 @@
 {
   "name": "flutter",
-  "version": "0.1.0",
-  "summary": "A short description of flutter.",
+  "version": "0.1.5",
+  "summary": "demo 测试pod",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/sdaduanbilei@163.com/flutter",
+  "homepage": "https://code.9ji.com/sdaduanbilei/flutter_movie",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,13 @@
     "sdaduanbilei@163.com": "sdaduanbilei@163.com"
   },
   "source": {
-    "git": "https://github.com/sdaduanbilei@163.com/flutter.git",
-    "tag": "0.1.0"
+    "git": "https://code.9ji.com/sdaduanbilei/flutter_movie.git",
+    "tag": "0.1.5"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "flutter/Classes/**/*"
+  "source_files": "flutter/Classes/**/*",
+  "resources": "flutter/res/**/*",
+  "vendored_frameworks": "flutter/Frameworks/*.framework"
 }
