@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'flutter'
-  s.version          = '0.2.1'
+  s.version          = '0.2.2'
   s.summary          = 'demo 测试pod'
 
 # This description is used to generate tags and improve search results.
@@ -35,7 +35,7 @@ TODO: Add long description of the pod here.
   # s.resource_bundles = {
   #   'flutter' => ['flutter/Assets/*.png']
   # }
-  s.resource = 'flutter/Res/**/*'
+  s.resource = 'flutter/Resources/**/*'
   s.vendored_frameworks = 'flutter/Frameworks/*.framework'
   # s.public_header_files = 'flutter/Frameworks/Flutter.framework/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
