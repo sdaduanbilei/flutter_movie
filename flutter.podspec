@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'flutter'
-  s.version          = '0.2.2'
-  s.summary          = 'demo 测试pod'
+  s.version          = '0.2.3'
+  s.summary          = 'movies flutter'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
